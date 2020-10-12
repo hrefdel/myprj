@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gitprj.iml" filepath="$PROJECT_DIR$/gitprj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaprj/javaprj.iml" filepath="$PROJECT_DIR$/javaprj/javaprj.iml" />
+    </modules>
+  </component>
+</project>
